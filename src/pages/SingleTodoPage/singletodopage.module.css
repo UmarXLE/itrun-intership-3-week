@@ -1,0 +1,12 @@
+.wrapperTodo {
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.form {
+    width: 100%;
+    text-align: center;
+}
